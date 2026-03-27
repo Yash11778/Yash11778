@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yash;Full+Stack+Developer;AI+Enthusiast;Hackathon+Winner+🏆" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yash;Full+Stack+Developer;AI+Enthusiast;Hackathon+Winner+🏆" />
 </p>
 
 <h3 align="center">💻 Full Stack Developer | 🧠 AI Enthusiast</h3>
