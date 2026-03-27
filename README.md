@@ -1,58 +1,40 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=#FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yash;Full+Stack+Developer;AI+Builder;Hackathon+Winner+🏆" />
-</p>
-
-<h3 align="center">💻 Full Stack Developer | 🧠 AI Builder</h3>
-
-<p align="center">
-🚀 Building AI-powered products & scalable systems  
-🏆 Hackathon Winner | IIM Indore & IIT Kharagpur Finalist
-</p>
-
----
-
-### 👨‍💻 About
-
-- Building **SkillPilot** (AI career platform)  
-- Focused on **Full Stack + AI (LLMs)**  
-- Goal: **Real-world scalable tech**
-
----
-
-### 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,python" />
-</p>
-
----
-
-### 🚀 Featured Project
-
-**SkillPilot**  
-AI-powered career recommendation system  
-
-• Matches skills + personality  
-• Suggests courses & jobs  
-
----
-
-### 🏆 Achievements
-
-🥇 Idea Cube Hackathon Winner  
-🥇 Raisoni Tech Hackathon Winner  
-🏅 IIT Kharagpur & IIM Indore Finalist  
-
----
-
-### 🌐 Connect
-
-<p align="center">
-  <a href="https://yashdharme.tech">Portfolio</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Yash;Full+Stack+Developer;AI+Builder;Hackathon+Winner+🏆" />
 </p>
 
 ---
 
 <p align="center">
-⭐ Star my repos if you like my work
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,ts" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SkillPilot-AI%20Platform-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM-Integrated-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Build-green?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇-Idea%20Cube-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/🥇-Raisoni-gold?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏅-IIT%20KGP-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/🏅-IIM%20Indore-blue?style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://yashdharme.tech">
+    <img src="https://img.shields.io/badge/🌍-Portfolio-0A66C2?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yash11778&style=flat-square&color=blue" />
 </p>
