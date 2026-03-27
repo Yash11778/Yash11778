@@ -5,53 +5,54 @@
 <h3 align="center">💻 Full Stack Developer | 🧠 AI Builder</h3>
 
 <p align="center">
-🚀 AI Products • ⚡ Scalable Systems • 🏆 Hackathons
+🚀 Building AI-powered products & scalable systems  
+🏆 Hackathon Winner | IIM Indore & IIT Kharagpur Finalist
 </p>
 
 ---
 
+### 👨‍💻 About
+
+- Building **SkillPilot** (AI career platform)  
+- Focused on **Full Stack + AI (LLMs)**  
+- Goal: **Real-world scalable tech**
+
+---
+
+### 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,mongodb,python" />
 </p>
 
 ---
 
 ### 🚀 Featured Project
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Project-SkillPilot-blue?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/AI-Powered-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM-Integrated-black?style=for-the-badge" />
-</p>
+**SkillPilot**  
+AI-powered career recommendation system  
 
-<p align="center">
-🎯 Skills + Personality Matching <br/>
-📚 Course & Job Recommendations
-</p>
+• Matches skills + personality  
+• Suggests courses & jobs  
 
 ---
 
 ### 🏆 Achievements
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🥇-Idea%20Cube%20Winner-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🥇-Raisoni%20Hackathon-gold?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏅-IIT%20KGP%20Finalist-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏅-IIM%20Indore%20Finalist-blue?style=for-the-badge" />
-</p>
+🥇 Idea Cube Hackathon Winner  
+🥇 Raisoni Tech Hackathon Winner  
+🏅 IIT Kharagpur & IIM Indore Finalist  
 
 ---
 
 ### 🌐 Connect
 
 <p align="center">
-  <a href="https://yashdharme.tech">
-    <img src="https://img.shields.io/badge/🌍-Portfolio-0A66C2?style=for-the-badge" />
-  </a>
+  <a href="https://yashdharme.tech">Portfolio</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yash11778&style=for-the-badge&color=blue" />
+⭐ Star my repos if you like my work
 </p>
