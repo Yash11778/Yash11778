@@ -35,15 +35,6 @@ and many more.....
 
 ---
 
-📊 **GitHub Stats**
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Yash11778&show_icons=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yash11778&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 🔥 **Contribution Animations**
 
 <p align="center">
