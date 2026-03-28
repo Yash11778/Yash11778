@@ -46,8 +46,6 @@ and many more.....
 
 🔥 **Contribution Animations**
 
-🔥 **Contribution Animations**
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/snake.svg" />
 </p>
@@ -55,7 +53,7 @@ and many more.....
 🌐 **Connect**
 
 <p align="center">
-  <a href="https://yashdharme.tech">🌍 Portfolio</a>
+  <a href="https://yashdharme.tech">🌍 yashdharme.tech</a>
 </p>
 
 ---
