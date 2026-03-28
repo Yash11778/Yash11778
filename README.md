@@ -9,16 +9,6 @@
 🏆 Hackathon Winner | IIM Indore & IIT Kharagpur Finalist
 </p>
 
----
-
-👨‍💻 **About Me**
-
-- 🔭 Building **SkillPilot** (AI career platform)
-- 🌱 Exploring **LLMs & scalable systems**
-- 🎯 Goal: Build impactful end-to-end tech
-
----
-
 🛠️ **Tech Stack**
 
 <p align="center">
@@ -29,7 +19,7 @@
 
 🚀 **Project: SkillPilot**
 
-AI-powered career recommendation platform  
+AI-powered career guidance platform  
 ✨ Skills + personality matching  
 ✨ Course & job suggestions  
 
@@ -37,9 +27,10 @@ AI-powered career recommendation platform
 
 🏆 **Achievements**
 
+🏅 IIT KGP & IIM Indore Finalist
 🥇 Idea Cube Hackathon Winner  
 🥇 Raisoni Hackathon Winner  
-🏅 IIT KGP & IIM Indore Finalist  
+    and many more.....
 🎤 HackGenX Mentor & Judge  
 
 ---
@@ -55,17 +46,17 @@ AI-powered career recommendation platform
 
 🔥 **Contribution Animations**
 
-<img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/snake.svg" alt="Snake animation" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/snake.svg" alt="Snake animation" />
+</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 ---
 
