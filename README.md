@@ -46,21 +46,11 @@ and many more.....
 
 🔥 **Contribution Animations**
 
-<!-- Snake -->
+🔥 **Contribution Animations**
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/snake.svg" />
 </p>
-
-<!-- Pacman -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
-    <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
----
 
 🌐 **Connect**
 
