@@ -43,12 +43,23 @@ and many more.....
 
 🌐 **Connect**
 
+<!-- Social Links -->
 <p align="center">
-  <a href="https://yashdharme.tech">🌍 yashdharme.tech</a>
+  <a href="https://www.linkedin.com/in/yash-dharme-b0ab0b225/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Yash11778">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://x.com/Yash_1177">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://www.instagram.com/ig_yash117/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ---
-
 <p align="center">
 ⭐ Star my repos if you like my work!
 </p>
