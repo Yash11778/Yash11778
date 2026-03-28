@@ -27,10 +27,10 @@ AI-powered career guidance platform
 
 🏆 **Achievements**
 
-🏅 IIT KGP & IIM Indore Finalist
+🏅 IIT KGP & IIM Indore Finalist  
 🥇 Idea Cube Hackathon Winner  
 🥇 Raisoni Hackathon Winner  
-    and many more.....
+and many more.....  
 🎤 HackGenX Mentor & Judge  
 
 ---
@@ -46,15 +46,17 @@ AI-powered career guidance platform
 
 🔥 **Contribution Animations**
 
+<!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/snake.svg" />
 </p>
 
+<!-- Pacman -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/Yash11778/Yash11778/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
