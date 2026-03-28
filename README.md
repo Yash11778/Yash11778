@@ -2,6 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF0000&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Yash;Full+Stack+Developer;AI+Enthusiast;Hackathon+Winner+🏆" />
 </p>
 
+<p align="center"> <a href="https://yashdharme.tech">🌍 yashdharme.tech</a> </p>
+
 <h3 align="center">💻 Full Stack Developer | 🧠 AI Enthusiast</h3>
 
 <p align="center">
